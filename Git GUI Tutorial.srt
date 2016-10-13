@@ -1,0 +1,1008 @@
+1
+00:00:00,000 --> 00:00:04,560
+hello and welcome everybody I margin and
+today we're going to be doing a tutorial
+
+2
+00:00:04,560 --> 00:00:14,70
+on how to manage a remote and local
+repository using get Dewey now get is
+
+3
+00:00:14,70 --> 00:00:20,310
+just a simple program that allows you to
+manage all your paws Tory's the gooey
+
+4
+00:00:20,310 --> 00:00:25,140
+factor of it is simply a graphical user
+interface that it makes it quite simple
+
+5
+00:00:25,140 --> 00:00:29,160
+to use compared to using the command
+line so the first thing we're going to
+
+6
+00:00:29,160 --> 00:00:32,790
+want to do is set up our remote
+repository and to do that you're going
+
+7
+00:00:32,790 --> 00:00:37,290
+to need need to create an account with
+the bit bucket for this you can go to
+
+8
+00:00:37,290 --> 00:00:41,10
+bitbucket org all the links in this
+video will be in the description also
+
+9
+00:00:41,10 --> 00:00:45,629
+there's a link there to that you simply
+just put the username email and password
+
+10
+00:00:45,629 --> 00:00:51,780
+it's a free side once you've done that
+you can log in and you're going to come
+
+11
+00:00:51,780 --> 00:00:55,440
+into a to a page similar to this this is
+your dashboard as you can see here I
+
+12
+00:00:55,440 --> 00:01:01,920
+have four repositories currently on my
+account that i am working on but what
+
+13
+00:01:01,920 --> 00:01:05,430
+you're going to do to create a new
+repository is going to go over here to
+
+14
+00:01:05,430 --> 00:01:10,229
+create and you're just going to click
+there it's gonna bring you to screen
+
+15
+00:01:10,229 --> 00:01:15,179
+like this what you're going to do now is
+enter a name for your repository you can
+
+16
+00:01:15,180 --> 00:01:19,770
+see I have a couple from the past here
+we're just going to name this one get
+
+17
+00:01:19,770 --> 00:01:24,539
+tutorial before I can spell that'd be
+great
+
+18
+00:01:25,110 --> 00:01:28,799
+I used through a quick description in
+there if you'd like so we're going to
+
+19
+00:01:28,799 --> 00:01:33,900
+say how to use get if you click this
+here I all it does is affect whether
+
+20
+00:01:33,900 --> 00:01:37,770
+someone needs to put in a password or
+not to work with the remote people also
+
+21
+00:01:37,770 --> 00:01:41,729
+we are going to leave this on just so
+that only we can allow people to user
+
+22
+00:01:41,729 --> 00:01:45,960
+repository if they have the password
+again the other settings here you will
+
+23
+00:01:45,960 --> 00:01:47,369
+not have to worry about
+
+24
+00:01:47,369 --> 00:01:50,909
+we're just doing a simple explanation
+how to use get so it is not that
+
+25
+00:01:50,909 --> 00:01:54,180
+important here in language you can
+choose which codebase you're using that
+
+26
+00:01:54,180 --> 00:01:57,990
+there's a long list of different things
+you can use you do not have to select
+
+27
+00:01:57,990 --> 00:02:01,979
+one but it is helpful and it will help
+you when you're working on bitbucket
+
+28
+00:02:01,979 --> 00:02:05,520
+here so we're just gonna go ahead and
+select Ravitz a codebase i usually
+
+29
+00:02:05,520 --> 00:02:08,519
+working but feel free to use what ever
+you are using
+
+30
+00:02:09,190 --> 00:02:17,20
+and then just go ahead and click create
+repository and here you are you're at
+
+31
+00:02:17,20 --> 00:02:22,840
+the dashboard of your get tutorial but
+as you can see there's nothing here we
+
+32
+00:02:22,840 --> 00:02:23,980
+go to our source
+
+33
+00:02:23,980 --> 00:02:26,980
+nothing is here it's asking us to our
+first commit it's just an empty
+
+34
+00:02:26,980 --> 00:02:31,929
+repository it's just there it's set up
+so that we can use it now so we're going
+
+35
+00:02:31,930 --> 00:02:35,260
+to do all we need to do using Google's
+going to hear click i have an existing
+
+36
+00:02:35,260 --> 00:02:42,130
+project and this URL right here is what
+you're going to want to use okay all
+
+37
+00:02:42,130 --> 00:02:49,210
+this is https colon slash slash your
+username at bucket . org slash your user
+
+38
+00:02:49,210 --> 00:02:57,220
+name / title of the repository place any
+spaces with ashes . get ok but if you
+
+39
+00:02:57,220 --> 00:03:03,370
+just go right here you'll be able to
+access that very easily and so now we
+
+40
+00:03:03,370 --> 00:03:09,970
+are done with bitbucket . work we're
+going to go ahead and download get going
+
+41
+00:03:09,970 --> 00:03:11,200
+to want to go to get dash
+
+42
+00:03:11,200 --> 00:03:16,600
+scmp.com this is the homepage forget and
+as you can see here just on the right
+
+43
+00:03:16,600 --> 00:03:22,60
+side there is a download for windows
+there's also different village for linux
+
+44
+00:03:22,60 --> 00:03:25,209
+as well as Mac we're going to do windows
+for today
+
+45
+00:03:25,209 --> 00:03:29,320
+that's what i'm using we're gonna get as
+you're going to get this file here you
+
+46
+00:03:29,320 --> 00:03:34,570
+just click Save and that will download
+onto your computer once it's done
+
+47
+00:03:34,570 --> 00:03:37,810
+downloading it's right there on my
+desktop you're going to want to go ahead
+
+48
+00:03:37,810 --> 00:03:45,820
+and double click that and it's going to
+bring up the install page for first you
+
+49
+00:03:45,820 --> 00:03:50,530
+may get the skirt security one and just
+hit run and if you get any other ones
+
+50
+00:03:50,530 --> 00:03:54,790
+just hit yes and it's gonna bring up the
+setup wizard here so all you need to do
+
+51
+00:03:54,790 --> 00:03:59,799
+on the screen is hit next and next again
+here you the only you need to make sure
+
+52
+00:03:59,800 --> 00:04:03,610
+that's changed is that additional icons
+is selected all that's going to do is
+
+53
+00:04:03,610 --> 00:04:06,970
+toss the shortcut on your desktop and
+click Launch so it's easier to access
+
+54
+00:04:06,970 --> 00:04:10,60
+then you're going to hit next until we
+get all the way through don't have to
+
+55
+00:04:10,60 --> 00:04:13,750
+worry about in these things and we'll
+just wait for the install to finish here
+
+56
+00:04:13,750 --> 00:04:18,640
+right now we're going to uncheck view
+release notes it's not necessary that
+
+57
+00:04:18,640 --> 00:04:21,108
+you view them if you do have a reason
+for you
+
+58
+00:04:21,108 --> 00:04:24,469
+absolutely of the power to but we're
+just going to go ahead and skip that for
+
+59
+00:04:24,469 --> 00:04:29,539
+now I was going to do is you're going to
+get to get gooey the shortcut on your
+
+60
+00:04:29,539 --> 00:04:34,68
+desktop just pull over the git bash one
+here as well so these are the two that
+
+61
+00:04:34,69 --> 00:04:35,840
+are going to show up on your desktop
+
+62
+00:04:35,840 --> 00:04:38,508
+we're not going to get bachelors put
+that away for now we're just going to
+
+63
+00:04:38,509 --> 00:04:41,870
+stick with gooeys it's easier to
+understand and much easier to work with
+
+64
+00:04:42,860 --> 00:04:46,39
+go ahead and double-click that on this
+page will open up here this is the
+
+65
+00:04:46,39 --> 00:04:50,000
+google homepage you have three options
+create a new repository which is going
+
+66
+00:04:50,000 --> 00:04:53,360
+to create a local repository on this
+computer
+
+67
+00:04:53,360 --> 00:04:59,509
+the second option is clone an existing
+repository and once I what that will do
+
+68
+00:04:59,509 --> 00:05:03,80
+is clone a relative repository from
+another location whether it be remote or
+
+69
+00:05:03,80 --> 00:05:06,740
+locally so that's good for if you have
+other people that would like to use your
+
+70
+00:05:06,740 --> 00:05:10,520
+programmer sorry out that would like to
+use your repository they'll be able to
+
+71
+00:05:10,520 --> 00:05:14,479
+clone it and work on and on their
+machine and open existing repository was
+
+72
+00:05:14,479 --> 00:05:17,90
+to open a repository that you have
+stored on your computer
+
+73
+00:05:17,90 --> 00:05:20,659
+generally if you've already open them
+you'll have an open recent repository
+
+74
+00:05:20,659 --> 00:05:24,889
+which is much easier to use usually just
+click on that brings me to my repository
+
+75
+00:05:24,889 --> 00:05:30,440
+saves me a little bit of time so the
+first thing we need to do is we're going
+
+76
+00:05:30,440 --> 00:05:37,729
+to create a new repository so we have a
+remote repository here on bitbucket but
+
+77
+00:05:37,729 --> 00:05:40,190
+no way is that connected yet to our
+computer
+
+78
+00:05:40,190 --> 00:05:47,930
+ok so we're going to first create a new
+repository and we're going to put choose
+
+79
+00:05:47,930 --> 00:05:53,569
+the director that goes in just so for
+ease of access here we're going to put
+
+80
+00:05:53,569 --> 00:05:57,500
+it on the desktop so we're just going to
+go ahead and select
+
+81
+00:05:58,409 --> 00:06:01,830
+whoops we're going to actually go up
+here to desktop select desktop
+
+82
+00:06:02,580 --> 00:06:04,830
+ok it's going to put in the directory
+first we're actually just going to add a
+
+83
+00:06:04,830 --> 00:06:08,998
+new folder named they're also not having
+this is not splattered with us up so
+
+84
+00:06:08,999 --> 00:06:17,249
+we'll call it get tutorial and just go
+ahead and create our click create in
+
+85
+00:06:17,249 --> 00:06:20,999
+here is the screen for your repository
+to be easily be resized to whatever you
+
+86
+00:06:20,999 --> 00:06:26,669
+need to be in here let me just drag the
+folder here there's the folder that we
+
+87
+00:06:26,669 --> 00:06:30,839
+just created understand my second
+daughter here so if we open that up
+
+88
+00:06:30,839 --> 00:06:33,119
+there it is
+
+89
+00:06:33,119 --> 00:06:37,889
+you can see that there's a hidden folder
+called . get this is the folder that it
+
+90
+00:06:37,889 --> 00:06:42,749
+uses to understand all the changes and
+work with your repository so that's how
+
+91
+00:06:42,749 --> 00:06:46,979
+you know it's your local repository
+there now that we have our local
+
+92
+00:06:46,979 --> 00:06:51,209
+repository we're going to want to
+connect that the remote repository so
+
+93
+00:06:51,209 --> 00:06:55,110
+we're going to do is we're going to the
+remote tab here we're gonna add
+
+94
+00:06:55,110 --> 00:07:01,949
+selection so you can choose a name the
+name is not Todd does not truly matter
+
+95
+00:07:01,949 --> 00:07:05,819
+too much so if you want you can use a
+descriptive name such as tutorial remote
+
+96
+00:07:05,819 --> 00:07:12,59
+location or mota repo but generally what
+I just go with is I just name it
+
+97
+00:07:12,59 --> 00:07:15,599
+origin I'd simple and I know that that's
+where it's coming from and then the
+
+98
+00:07:15,599 --> 00:07:20,669
+location you're going to put that URL
+for the remote repository that was the
+
+99
+00:07:20,669 --> 00:07:24,628
+one we got off this page right here just
+go ahead and grab that you just copy it
+
+100
+00:07:24,629 --> 00:07:31,79
+and you're going to go ahead and paste
+it right there in the location and
+
+101
+00:07:31,79 --> 00:07:35,759
+simply have to click Add what it's going
+to do the fetch immediately just means
+
+102
+00:07:35,759 --> 00:07:37,409
+it's going to fetch from it right away
+
+103
+00:07:37,409 --> 00:07:42,89
+nothing there's that's fine so just add
+it you're going to get this little
+
+104
+00:07:42,89 --> 00:07:44,699
+screen here it will prompt you for a
+password
+
+105
+00:07:44,699 --> 00:07:47,729
+just toss in the password you use to set
+up your account that's what it's gonna
+
+106
+00:07:47,729 --> 00:07:52,79
+be prompting you for and then it's going
+to show you that six success which means
+
+107
+00:07:52,79 --> 00:07:55,000
+we are now connected
+
+108
+00:07:55,000 --> 00:08:01,810
+ok now our repositories are connected so
+we're going to go ahead and we're going
+
+109
+00:08:01,810 --> 00:08:05,740
+to create a new file in here as if
+you're working in our repository so
+
+110
+00:08:05,740 --> 00:08:09,730
+we're going to create our readme file to
+the first file you create groups made a
+
+111
+00:08:09,730 --> 00:08:14,350
+bit of a spelling mistake then we fix
+that perfect go in and we're going to
+
+112
+00:08:14,350 --> 00:08:24,160
+say okay I'm get tutorial perfect to
+save up the file close it down now we
+
+113
+00:08:24,160 --> 00:08:27,610
+have a new file so now what we have to
+do is you have to make sure that the
+
+114
+00:08:27,610 --> 00:08:30,850
+that get knows that's there so we're
+going to do is you're going to click
+
+115
+00:08:30,850 --> 00:08:35,200
+rescan going to check for any files that
+have been changed since the last commit
+
+116
+00:08:35,200 --> 00:08:40,90
+so you can see the readme file is there
+but now we're going to want to stage
+
+117
+00:08:40,90 --> 00:08:44,500
+those files so that we can commit them
+so it's going to ask you to stage one on
+
+118
+00:08:44,500 --> 00:08:45,370
+track file
+
+119
+00:08:45,370 --> 00:08:48,550
+yes we do want to do that now you're
+gonna say it's in the stage that's
+
+120
+00:08:48,550 --> 00:08:53,770
+what's gonna be committed if you hit
+commit a crime so next they want to do
+
+121
+00:08:53,770 --> 00:08:56,710
+is you always in a message with your
+commit so I always click sign off here
+
+122
+00:08:56,710 --> 00:09:01,690
+and what that does it's going to sound
+show that it's signed off by so-and-so
+
+123
+00:09:01,690 --> 00:09:06,400
+with such an email so i just change that
+to my name and my email and we're also
+
+124
+00:09:06,400 --> 00:09:10,930
+going to toss a message in there that
+says we added the readme file okay just
+
+125
+00:09:10,930 --> 00:09:14,500
+so if anyone else looking at repository
+they know what we did on this commit and
+
+126
+00:09:14,500 --> 00:09:17,620
+then you simply hit commit and welcome
+it does is that's going to commit
+
+127
+00:09:17,620 --> 00:09:23,680
+locally on the computer so it saved
+locally on the repository the next thing
+
+128
+00:09:23,680 --> 00:09:28,329
+we need to do now is we need that now
+need to change it on the remote
+
+129
+00:09:28,330 --> 00:09:34,839
+repository so if we go look locally it's
+there but if we go to remote and we go
+
+130
+00:09:34,839 --> 00:09:38,440
+to our source tab here you're going to
+see that it's still empty
+
+131
+00:09:38,950 --> 00:09:49,000
+okay so we need to go ahead and push
+that up to the remote repository so go
+
+132
+00:09:49,000 --> 00:09:53,470
+ahead and hit click push going to see
+whatever branch you're working on more
+
+133
+00:09:53,470 --> 00:09:59,110
+work on master so select that USA which
+destinations going to its remote origins
+
+134
+00:09:59,110 --> 00:10:00,310
+what we need that before
+
+135
+00:10:00,310 --> 00:10:04,479
+if you have more to be shown there and
+then you're just going to go ahead and
+
+136
+00:10:04,480 --> 00:10:07,839
+click push it's going to prompt you for
+the password
+
+137
+00:10:08,510 --> 00:10:11,300
+so go ahead and type in the same
+password you use for your account again
+
+138
+00:10:11,300 --> 00:10:14,900
+and there you go you can see the
+successful show you what's been pushed
+
+139
+00:10:14,900 --> 00:10:21,380
+up 422 bites of the file and that's
+always pushed wonderful success now we
+
+140
+00:10:21,380 --> 00:10:26,300
+just go ahead and close that wonderful
+and now if we go ahead and refresh
+
+141
+00:10:26,300 --> 00:10:31,99
+refresh the remote repository here you
+can see there's our there's a readme
+
+142
+00:10:31,100 --> 00:10:34,460
+file and that's the information that's
+in it
+
+143
+00:10:34,460 --> 00:10:38,270
+we're just going to go ahead and change
+it here so we're going to go ahead and
+
+144
+00:10:38,270 --> 00:10:44,510
+just put the point 01 you can just
+change some things through dad bitbucket
+
+145
+00:10:44,510 --> 00:10:48,110
+so we're going to commit that so that
+things have been changed and it's going
+
+146
+00:10:48,110 --> 00:10:52,190
+to show you hear that on this commit we
+just added the point of one that's
+
+147
+00:10:52,190 --> 00:10:57,710
+what's been changed wonderful and what
+we can do now is we're going to go
+
+148
+00:10:57,710 --> 00:11:05,990
+remote fetch from origin so that's a
+remote repository we're going to click
+
+149
+00:11:05,990 --> 00:11:09,380
+that it's going to bring up the fetch
+screen and it's going to ask for
+
+150
+00:11:09,380 --> 00:11:14,840
+password again type in your password you
+go and it's going to show you that
+
+151
+00:11:14,840 --> 00:11:20,240
+something's been fetched 142 success
+there's been a change there now what we
+
+152
+00:11:20,240 --> 00:11:25,10
+need to do is if you look here nothing's
+changed
+
+153
+00:11:25,10 --> 00:11:28,100
+this is because we've just finished the
+changes we haven't applied them to our
+
+154
+00:11:28,100 --> 00:11:32,870
+local repository to do that you're going
+to do emerge you want to stretch to and
+
+155
+00:11:32,870 --> 00:11:36,680
+want to go into local emergency origin
+master we're going to want to merge that
+
+156
+00:11:36,680 --> 00:11:39,620
+so what that's going to do is it's going
+to apply the changes to our local
+
+157
+00:11:39,620 --> 00:11:43,550
+repository that you can see the changes
+there and it was a success
+
+158
+00:11:43,550 --> 00:11:48,620
+so now if we go down into get tutorial
+here open up and open the remaining
+
+159
+00:11:48,620 --> 00:11:54,590
+they're going to see it's changed to be
+. all one so what we're going to do next
+
+160
+00:11:54,590 --> 00:11:59,570
+here is we're going to clone an existing
+repository so anyone working on your
+
+161
+00:11:59,570 --> 00:12:02,600
+project that needs repository and their
+computers going to select this here
+
+162
+00:12:02,600 --> 00:12:06,230
+clone existing repository you're going
+to choose the source location again
+
+163
+00:12:06,230 --> 00:12:13,760
+where you want to store that repository
+so we can just go ahead and select our
+
+164
+00:12:13,760 --> 00:12:17,689
+remote repository location that we had
+before such as where the repos coming
+
+165
+00:12:17,690 --> 00:12:21,290
+from can be a local location as well but
+you're going to give your
+
+166
+00:12:21,290 --> 00:12:24,529
+multiplication of someone they'll put it
+in there and then we're going to select
+
+167
+00:12:24,529 --> 00:12:27,500
+our desktop again for our target
+directory which is where it's going to
+
+168
+00:12:27,500 --> 00:12:33,649
+go and we're going to call it get
+tutorial to come and then you just hit
+
+169
+00:12:33,649 --> 00:12:39,19
+clone it's going to take a second here
+it's going to prompt you for three sets
+
+170
+00:12:39,19 --> 00:12:43,9
+of passwords all the same password you
+just have to do it a couple times here
+
+171
+00:12:43,9 --> 00:12:51,19
+there's the second one and finally the
+third one here and then we're going to
+
+172
+00:12:51,19 --> 00:12:55,160
+come up with our get tutorial too and
+it's not going to be set up on the
+
+173
+00:12:55,160 --> 00:12:58,850
+desktop under the firearms of the file
+folder to get tutorial to just pull it
+
+174
+00:12:58,850 --> 00:12:59,360
+over here
+
+175
+00:12:59,360 --> 00:13:05,360
+there it is and there's the readme file
+as we changed it before up on the remote
+
+176
+00:13:05,360 --> 00:13:09,860
+repository wonderful so we're just going
+to create a new file here that we are
+
+177
+00:13:09,860 --> 00:13:13,279
+just working on and decide that we don't
+want to put on a more positive even
+
+178
+00:13:13,279 --> 00:13:19,759
+called error . text I'm just gonna put
+some random order to submit which closed
+
+179
+00:13:19,759 --> 00:13:23,300
+that down and we're gonna save it
+wonderful
+
+180
+00:13:23,300 --> 00:13:27,500
+so Eric text now if we reschedule we're
+going to see that that's something we
+
+181
+00:13:27,500 --> 00:13:31,40
+don't want on our repository we've made
+an error so what you're going to do is
+
+182
+00:13:31,40 --> 00:13:36,829
+going to stage that change anything in
+the green here I is what can be reset
+
+183
+00:13:36,829 --> 00:13:39,649
+what can be deleted so if you need to
+eat some you go ahead and staged it
+
+184
+00:13:39,649 --> 00:13:46,130
+you're going to go to branch and reset
+the branch reset you can see everything
+
+185
+00:13:46,130 --> 00:13:50,120
+that was in the green there is removed
+you have to stage first also want to
+
+186
+00:13:50,120 --> 00:13:53,60
+leave it if we go back into our tutorial
+here you're going to see that file is no
+
+187
+00:13:53,60 --> 00:13:58,339
+longer there so it's been reset so let's
+say you're working on a code file and
+
+188
+00:13:58,339 --> 00:14:02,690
+you add 10 20 lines of code you realize
+you made a mistake you can simply rescan
+
+189
+00:14:02,690 --> 00:14:07,459
+stage and then reset and that's going to
+raise only the lines of code you changed
+
+190
+00:14:07,459 --> 00:14:10,638
+that's going to help you with your
+project
+
+191
+00:14:11,149 --> 00:14:15,740
+ok on PEEP pocket here there's a few
+useful things you can see the commits
+
+192
+00:14:15,740 --> 00:14:19,9
+what we've done you see which one to
+commit so far we've added the readme
+
+193
+00:14:19,9 --> 00:14:24,79
+file and edit it online using the pocket
+and commit to anyone you'll be able to
+
+194
+00:14:24,79 --> 00:14:28,638
+see who's done it and the message that
+they left with it as well as you can
+
+195
+00:14:28,639 --> 00:14:31,730
+click on and see exactly what has been
+changed
+
+196
+00:14:31,730 --> 00:14:34,790
+ok so bitbucket organs very useful
+
+197
+00:14:34,790 --> 00:14:38,630
+for this very useful for to contract
+what's been done so make scenario you
+
+198
+00:14:38,630 --> 00:14:44,840
+very easily go back find it and fix it
+as well as on your overview time you're
+
+199
+00:14:44,840 --> 00:14:48,710
+gonna have a my newsfeed here that will
+show what's been done as well so it's
+
+200
+00:14:48,710 --> 00:14:54,590
+always good to keep an eye on that
+anyways thank you very much for watching
+
+201
+00:14:54,590 --> 00:14:57,920
+the tutorial wish you guys the best of
+luck with your projects in the future
+
+202
+00:14:57,920 --> 00:15:01,280
+and you guys have any questions or
+comments please leave them in the
+
+203
+00:15:01,280 --> 00:15:04,579
+comment section below and I'll do my
+best to get back to this
+
+204
+00:15:04,580 --> 00:15:06,80
+good luck using it
+
